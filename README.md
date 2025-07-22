@@ -23,7 +23,7 @@ A responsive, user-friendly to-do list web application built using HTML, CSS, an
 
 ## 👨‍💻 Author
 
-Built by [Your Name]  
+Built by seralathan
 [GitHub](https://github.com/seralathan06) | [LinkedIn](https://www.linkedin.com/in/seralathan-s-097b29257/)
 
 ---
